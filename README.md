@@ -1,5 +1,13 @@
-Used Car Price Prediction
-This project involves predicting the price of used cars using a linear regression model. The model was developed with Python and employs libraries like Pandas, NumPy, scikit-learn, and statsmodels for data analysis, preprocessing, and regression.
+# 🚗 Used Car Price Prediction
+Predicting the price of used cars with a linear regression model using Python and popular data science libraries.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+## Table of Contents
+- [Overview](#overview)
+- [Libraries Used](#libraries-used)
+- [Workflow](#workflow)
+- [Results and Insights](#results-and-insights)
+
 
 Project Overview
 This project aims to build a linear regression model to predict used car prices by leveraging various data preprocessing and feature engineering techniques. The model follows standard Ordinary Least Squares (OLS) assumptions and applies feature transformations to enhance prediction accuracy.
